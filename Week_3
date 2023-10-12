@@ -1,1 +1,87 @@
-Day 1 to Day 5
+JAVASCRIPT INTERMEDIATE:JAVASCRIPT FOUNDATIONS
+WEEK 3: Introduction to Node JS
+Day1:09-13 October 2023
+Node. JS:
+•	Node.js is an open-source environment.
+•	Node.js runs on various platforms such Windows, Linux, Unix, Mac OS XETC.
+•	Node.js uses JavaScript on the server.
+•	Node.js is an open source which means that the source code for Node.JS is publicly available. 
+•	Node.js is a run-time  environment for executing JavaScript code.
+•	Node applications are asynchronous by default. 
+
+Purpose of Node.JS: 
+•	Node.js is a great web framework for beginners it works great for data-intensive applications like streaming and real-time apps, and Node.js makes it easy to start building the back end.
+•	Node.js is an open source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. 
+•	Node.js is a popular, lightweight web framework for beginners and it is used by many big companies such as Netflix and Uber.
+
+•	Node.js is a great web framework for beginners because it works great for data-intensive applications, like streaming and real-time apps, and Node.js makes it easy to start building the back end.
+
+Important Characteristics that make Node.js:
+•	Google Chrome V8 JS Engine: This runtime environment is built on the google chrome V8 JS runtime engine. The V8 JS engine takes JS and makes it readable.
+
+•	Module/Package: Node.js has npm, a node package manager, with a library of over 350000 packages to help get your project or application off the ground with efficiency and ease.
+
+•	Event Driven, Single-Threaded I/O Model: JavaScript relies on user interactions or events to run. The code is run synchronously. Server requests and other such asynchronous tasks rely on a system of promises or async/await functions to handle these input and outputs. 
+
+•	Platform Compatibility:
+
+•	Node.js is compatible with various operating systems such Windows, Linux, Unix, Mac OS XETC.
+
+•	Highly extensible which allows for custom modules and extensions.
+
+•	Community-driven maintenance and updates for ongoing improvements and security. 
+
+
+•	Day 2: Node.JS Libraries:
+•	Core Libraries:
+•	Node.js provides a set of essential libraries for essential functions.
+•	These involve libraries for file system operations, network communication, and more.
+•	Core libraries are available by default and don’t require additional installation.
+
+•	Third-party Libraries:
+
+•	Node.js has various ecosystem of third-party libraries available via npm (Node Package Manager). 
+
+•	Developers can easily install and manage these libraries to extend functionality.
+
+•	Common libraries include Express.js for web application development, Socket.io for real time communication, and Monogoose for MongoDB interactions.
+
+•	Modules:
+
+•	Node.js promotes modularity through the CommonJS module system.
+
+•	Modules encapsulates code into reusable units, enhancing code organization.
+
+•	The require function is used to import modules.
+
+•	Socket.io:
+
+•	Enables real-time, bidirectional communication between the server and clients.
+
+•	Popular for chat applications, online gaming, and other real-time features. Supports WebSocket and other transport mechanisms.
+
+
+•	Day 4 -Assigning a Sprite
+•	Introduction to Sprites:
+
+•	Sprites are a graphic or image component used in computer graphics and game development.
+•	They are often used to represent objects, characters, or elements in a 2D or 3D environment.
+•	Sprites are usually small, 2D images or animations.
+•	Types of Sprites:
+•	Static Sprites: Non-animated images representing objects or characters.
+•	Animated Sprites: Sequences of images used to create animations.
+•	Tile Sprites: Grid-based sprites used for tile-based games.
+•	Usage in 2D Games:
+•	Sprites play a central role in 2D game development.
+•	They are used to display characters, objects, backgrounds, and more.
+•	Sprites can be manipulated to create animations and respond to user input.
+•	
+•	Sprites are a fundamental component in graphics, gaming, and web development. They serve a variety of purposes, from representing game characters to enhancing user interfaces. Proper sprite management and optimization are key to creating visually engaging and responsive experiences.
+
+
+•	Advantages of Node.js:
+•	Relatively low learning curve: Most Front-end Developers are already familiar with JavaScript, so learning Node.js feels natural.
+•	Scalable architecture: Node.js features allow microservices architecture to break an application into multiple services to scale up.
+•	High-performance for real-time applications: The single threaded, event driven architecture of Node.js allows it to process many concurrent requests without slowing down the application.
+•	Saves development time and money: When you use Node.js for your server-side code, you only need JavaScript developers to work on both the front-end code and the back-end code instead of hiring two separate teams.
+
